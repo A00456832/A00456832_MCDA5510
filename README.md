@@ -2,7 +2,7 @@
 Imtiyaz Shaikh - Fall21 Intake
 
 
-I have 11 years of experience as a Data Engineer.
-I would like to learn fronend technology on Microsoft stack.
+I have 11 years of experience as a Data Engineer and Database developer.
+I would like to learn frontend technology on Microsoft stack.
 
-This is another addtion.
+This is another addition.
