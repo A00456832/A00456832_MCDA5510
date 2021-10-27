@@ -114,7 +114,7 @@ namespace Assignment1
                 StringBuilder failureBuilder = new StringBuilder(); /* The failure error log is maintained in the ErrorOutput.txt. */
                 StringBuilder successBuilder = new StringBuilder(); /* This stors the valid data row details whic hwill be inserted in to Output.csv. */
 
-                successBuilder.Append("First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address"); /*Add column list in the first row for the output file.*/
+                successBuilder.AppendLine("First Name,Last Name,Street Number,Street,City,Province,Postal Code,Country,Phone Number,email Address"); /*Add column list in the first row for the output file.*/
 
                 // Get list of all files from directory
                 foreach (string dir in DirectoryStructure)
