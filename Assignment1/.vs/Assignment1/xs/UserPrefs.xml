@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F3D38D4D-7D06-4A2D-A987-F7E20D9B17ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assignment1/DirWalker.cs">
+    <Files>
+      <File FileName="Assignment1/DirWalker.cs" Line="19" Column="45" />
+      <File FileName="Assignment1/Exceptions.cs" Line="1" Column="1" />
+      <File FileName="Assignment1/README.txt" Line="1" Column="1" />
+      <File FileName="Assignment1/sampleFile.csv" Line="1" Column="1" />
+      <File FileName="Assignment1/SimpleCSVParser.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment1" expanded="True">
+            <Node name="Assignment1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="DirWalker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
